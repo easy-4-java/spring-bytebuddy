@@ -44,7 +44,7 @@
             <properties>
                 <!-- Dependency versions -->
                 <additionalparam>-Xdoclint:none</additionalparam>
-                <maven.test.skip>true</maven.test.skip>
+                <maven.test.skip>false</maven.test.skip>
                 <!-- Maven Plugin versions -->
                 <maven-central-publishing-plugin.version>0.11.0</maven-central-publishing-plugin.version>
                 <maven-jacoco-plugin.version>0.8.15</maven-jacoco-plugin.version>
